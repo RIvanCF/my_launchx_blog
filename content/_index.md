@@ -17,6 +17,6 @@ Mis espectativas que estan en razón a este proyecto son: <br>
 ✅ Reforzar mis conocimientos en HTML, CSS y JavaScrip <br>
 ✅ Aprovechar las manetorias en vivo y las video-clases grabadas <br>
 
-🏆 Acompañenme en esta aventura 🏆
+🏆 Acompañenme en esta aventura 
 
 🚀
