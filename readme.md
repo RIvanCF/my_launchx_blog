@@ -9,3 +9,6 @@ Realiza las indicaciones de la weekly mission y monta tu propio blog. Espero que
 Así como también puedes crear tu **Workbook**:
 
 ![Ilustración_sin_título 2](https://user-images.githubusercontent.com/17634377/156294681-a7d2feb4-d41e-464f-9dbf-0fbc781aa056.png)
+
+## Anexo ✍🏻
+[Visita mi blog personal](https://rivancf.github.io/my_launchx_blog/)
