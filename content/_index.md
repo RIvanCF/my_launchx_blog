@@ -16,6 +16,7 @@ Mis expectativas que estan en razón a este proyecto son:
   - ✅ Avanzar con la enseñanza de diseño de apps Backend.
   - ✅ Reforzar mis conocimientos en HTML, CSS y JavaScrip.
   - ✅ Aprovechar las manetorias en vivo y las video-clases grabadas.
+  - ✅ Enriquecer el uso del editor de texto "Visual Code" e implementar esta herramienta a la mayoria de las prácticas.
 
 🏆 Acompañenme en mis aventuras  
 
