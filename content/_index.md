@@ -9,13 +9,13 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 
 
-Mis espectativas que estan en razón a este proyecto son: <br>
-✅ Aprender a hacer uso y aplicación de la herramienta Git. <br>
-✅ Sacar todo el potencial que GitHub me ofrece. <br>
-✅ Aplicar todos mis conocimiento para front-End y al termino de este proyecto, seguir con mi aprendizaje. <br>
-✅ Avanzar con la enseñanza de diseño de apps Backend <br>
-✅ Reforzar mis conocimientos en HTML, CSS y JavaScrip <br>
-✅ Aprovechar las manetorias en vivo y las video-clases grabadas <br>
+Mis espectativas que estan en razón a este proyecto son:
+<br>✅Aprender a hacer uso y aplicación de la herramienta Git.<br>
+<br>✅Sacar todo el potencial que GitHub me ofrece.<br>
+<br>✅Aplicar todos mis conocimiento para front-End y al termino de este proyecto, seguir con mi aprendizaje.<br>
+<br>✅Avanzar con la enseñanza de diseño de apps Backend.<br>
+<br>✅Reforzar mis conocimientos en HTML, CSS y JavaScrip.<br>
+<br>✅Aprovechar las manetorias en vivo y las video-clases grabadas.<br>
 
 🏆 Acompañenme en esta aventura 
 
