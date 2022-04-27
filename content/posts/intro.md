@@ -15,5 +15,4 @@ Mis expectativas que estan en razón a este proyecto son:
 
 🏆 Acompañenme en mis aventuras  
 
-
-<img src="https://user-images.githubusercontent.com/99302791/165458379-ee10b043-a5b9-4508-bbfc-43d6146c1eee.jpg" width=50% height=50%>
+![IMG_20220411_201452](https://user-images.githubusercontent.com/99302791/165459085-622d228e-d849-4493-8f75-10786803abf0.jpg)
